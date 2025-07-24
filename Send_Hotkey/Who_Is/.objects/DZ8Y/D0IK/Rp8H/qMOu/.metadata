@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Registrar",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "qMOuKlLQHkWXc1NRiWSGCQ",
+  "Reference": "Oh3o7L3VCUW1S58vUSAdfQ/qMOuKlLQHkWXc1NRiWSGCQ",
+  "ParentRef": "Oh3o7L3VCUW1S58vUSAdfQ/Rp8Hn9L380eZjeMxfUH5Xg",
+  "Created": "2025-07-24T15:40:04.5227178Z",
+  "Updated": "2025-07-24T15:40:04.5227178Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

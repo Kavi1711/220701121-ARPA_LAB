@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="JvJF9Y8jmUyXUhTkn8sWXg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="whois.com/whois/uipath.com" CVScreenId="1d7749f0-b8dc-4689-ac93-4c62ec99e477" CvTextArea="365, 482, 121, 22" CvType="AnyWordGroup" DesignTimeRectangle="368, 477, 913, 33" DesignTimeScaleFactor="1.5" ElementType="Text" FuzzySelectorArgument="&lt;webctrl class='df-value' tag='DIV' type='' /&gt;" Guid="02f9c49d-ecc8-480a-b3f0-b1ad9449fead" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Whois uipath.com' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="1d7749f0-b8dc-4689-ac93-4c62ec99e477" CvTextArea="156, 482, 156, 28" CvTextArgument="Registered On:" CvType="Text" DesignTimeRectangle="158, 477, 210, 33" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Registered On:' class='df-label' tag='DIV' type='' check:innerText='Registered On:' /&gt;" Guid="2b0102f1-e57a-4fcc-bcbb-82ccabdfe098" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="b7234dc2bcde500a322d988bf693585e.png" xmlns="">04qsHW_saN0-RfxyyT0VocA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

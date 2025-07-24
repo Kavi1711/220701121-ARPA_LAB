@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="yFAZsqCJX0WJ4YukzDrH4Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="whois.com/whois" CVScreenId="49b8923e-c760-4a4b-9f48-bf7dc4c2f9b5" CvElementArea="221, 551, 1264, 98" CvType="InputBox" DesignTimeRectangle="216, 552, 1264, 95" DesignTimeScaleFactor="1.5" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl id='query' tag='INPUT' type='text' class='form-control' placeholder='Enter Domain Name or IP Address' aaname='' /&gt;" Guid="ac57d531-26fe-49e9-ab71-8a10f67c572b" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Free Whois Lookup - Whois IP Search &amp;amp; Whois Domain Lookup | Whois.com' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="0eee9bf673b6ca96d282c9587400f295.png" xmlns="">0qD_bdegnDU-E_iFVDidtkg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

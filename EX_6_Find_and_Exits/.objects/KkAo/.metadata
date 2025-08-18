@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Edge Home  Rajalakshmi Engineering College (REC)",
+  "Type": "App",
+  "Id": "KkAojpAu20-vvp9DtkG-Ag",
+  "Reference": "ksyKvWNvmEe9xONf_BdSTQ/KkAojpAu20-vvp9DtkG-Ag",
+  "Created": "2025-08-18T07:57:36.3939275Z",
+  "Updated": "2025-08-18T07:57:36.3939275Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

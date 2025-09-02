@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="fp8uSoeP8k-cjyVDvqwCtA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.com/travel/flights" DesignTimeRectangle="1294, 794, 72, 72" DesignTimeScaleFactor="1.5" FuzzySelectorArgument="&lt;webctrl aria-role='gridcell' type='' tag='DIV' class='WhDFk Io4vne' aaname='intDate' check:innerText='23&amp;#xA;₹7,800' /&gt;" Guid="2f555fe8-dfd2-495f-be20-8d6a41149912" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Find Cheap Flights Worldwide &amp;amp; Book Your Ticket - Google Flights' /&gt;" SearchSteps="FuzzySelector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="bd6577a8b62a8424758ec590cab3fd4a.png" xmlns="">0vcCv6MIhHkCgCQxsEYAQDQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

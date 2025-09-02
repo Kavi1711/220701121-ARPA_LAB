@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="c1DiPFW3LE-JWITbexZYVw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.com/travel/flights" CVScreenId="028e1c32-bc6c-4bc7-9831-6bc37652653e" CvElementArea="891, 750, 137, 54" CvTextArea="947, 767, 57, 16" CvTextArgument="Search" CvType="Button" DesignTimeRectangle="896, 753, 127, 48" DesignTimeScaleFactor="1.2000000476837158" FuzzySelectorArgument="&lt;webctrl type='' isleaf='1' tag='DIV' class='VfPpkd-Jh9lGc' aaname='' /&gt;" Guid="16342014-58d4-4446-836e-b289fb94e933" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Find Cheap Flights from Mumbai (BOM) - Google Flights' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="028e1c32-bc6c-4bc7-9831-6bc37652653e" CvElementArea="891, 750, 137, 54" CvType="Button" DesignTimeRectangle="910, 763, 29, 29" ElementType="Icon" FuzzySelectorArgument="&lt;webctrl type='' tag='svg' class=' NMm5M' aaname='' /&gt;" Guid="9db4233d-04c3-4dbd-b372-c9fd5e127a88" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="9a90a1ac9e5163529a6772304d5bb305.png" xmlns="">0wEy19UrqkkaII9SxJ6kwIw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

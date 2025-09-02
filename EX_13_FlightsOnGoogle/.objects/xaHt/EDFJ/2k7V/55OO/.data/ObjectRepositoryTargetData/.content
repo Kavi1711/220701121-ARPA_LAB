@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="WEmQ6KMwWEChJhPu5Mz9hg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.com/travel/flights" CVScreenId="ed820067-19e2-4fb4-9e76-1cb7a7ef6895" CvTextArea="1014, 747, 21, 16" CvType="AnyWordGroup" DesignTimeRectangle="1016, 744, 19, 24" DesignTimeScaleFactor="1.2000000476837158" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aria-label='Saturday, September 13, 2025' tag='DIV' type='' class='eoY5cb CylAxb sLG56c yCya5' /&gt;" Guid="31da2dae-d1cc-4542-99af-d125495f47bb" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Find Cheap Flights from Mumbai (BOM) - Google Flights' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="997, 744, 57, 58" ElementType="Button" FullSelectorArgument="&lt;webctrl aria-role='button' idx='13' parentid='ow9' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl aria-role='button' type='' parentid='ow9' tag='DIV' class='p1BRgf KQqAEc' aaname='' check:innerText='13&amp;#xA;₹4,390' /&gt;" Guid="79e40167-4ff7-4532-9087-89c83f7239a4" SearchSteps="Selector, FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="5d4838ae7d237541ee0ef07f3271e9be.png" xmlns="">086CmtGlGJUaSfWWpM2dmrw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

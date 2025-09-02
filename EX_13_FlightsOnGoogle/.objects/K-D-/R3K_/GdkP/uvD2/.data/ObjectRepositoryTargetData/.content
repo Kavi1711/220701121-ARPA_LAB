@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="b0sQOyMIbUKnVjXz4MiHaA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.com/travel/flights" CVScreenId="96098541-e79f-4e4f-9d0a-818c8ea20fea" CvTextArea="305, 870, 94, 25" CvTextArgument="One way" CvType="Text" DesignTimeRectangle="240, 846, 206, 72" DesignTimeScaleFactor="1.5" ElementType="ListItem" FuzzySelectorArgument="&lt;webctrl tabindex='-1' tag='LI' type='' class='MCs1Pd UbEQCe VfPpkd-OkbHre VfPpkd-OkbHre-SfQLQb-M1Soyc-bN97Pc VfPpkd-aJasdd-RWgCYc-wQNmvb  ib1Udf VfPpkd-rymPhb-ibnC6b VfPpkd-rymPhb-ibnC6b-OWXEXe-SfQLQb-M1Soyc-Bz112c VfPpkd-rymPhb-ibnC6b-OWXEXe-SfQLQb-Woal0c-RWgCYc' aaname='' check:innerText='One way' /&gt;" Guid="3b72a268-86c8-486b-9c29-3a5f5547d512" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Find Cheap Flights Worldwide &amp;amp; Book Your Ticket - Google Flights' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="32c8b6b67583ccbde68a8bee83b9881a.png" xmlns="">0LEXeWaiasUO3-38j4HFC1Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

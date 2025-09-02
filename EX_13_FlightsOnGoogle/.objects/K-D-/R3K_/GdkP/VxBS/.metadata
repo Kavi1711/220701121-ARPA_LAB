@@ -1,0 +1,13 @@
+﻿{
+  "Name": "23₹7,800",
+  "Type": "Element",
+  "Id": "VxBSOX-RiUiCn_NW1vQSXQ",
+  "Reference": "G8PLXYAyUEqy8DFk6zZnLw/VxBSOX-RiUiCn_NW1vQSXQ",
+  "ParentRef": "G8PLXYAyUEqy8DFk6zZnLw/GdkPGrtVcU2ZT42CDRNKXg",
+  "Created": "2025-08-30T17:52:15.0293454Z",
+  "Updated": "2025-08-30T17:52:15.0293454Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

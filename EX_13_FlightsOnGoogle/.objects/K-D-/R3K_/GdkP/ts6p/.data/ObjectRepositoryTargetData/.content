@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="iqz8HboqVkOZVkdtF4LszQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.com/travel/flights" CVScreenId="6fe1e988-8493-4f99-836f-aa624389f905" CvTextArea="762, 515, 111, 27" CvTextArgument="Anywhere" CvType="Text" DesignTimeRectangle="675, 486, 423, 84" DesignTimeScaleFactor="1.5" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl aria-label='Where to?' tag='INPUT' type='text' class='II2One j0Ppje zmMKJ LbIaRd' aaname='' /&gt;" Guid="fac84cef-860a-48ac-a7f3-e6533de76fae" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Find Cheap Flights Worldwide &amp;amp; Book Your Ticket - Google Flights' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="711, 510, 36, 36" ElementType="Icon" FuzzySelectorArgument="&lt;webctrl parentid='ow20' tag='svg' type='' class='IILp3 oTFJue LKTCxe NMm5M' aaname='' /&gt;" Guid="378d51be-8752-449f-af85-48c8cfe461ae" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="0e6c0fd9bfd4c171f137215f543dc4ec.png" xmlns="">0eX0wZI2n7UqgjbWXj3PCXw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

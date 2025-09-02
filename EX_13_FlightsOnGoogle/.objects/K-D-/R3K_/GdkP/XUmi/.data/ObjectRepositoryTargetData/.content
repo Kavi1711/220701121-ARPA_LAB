@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="K3RkpnPsU0qTqAe-hsalJw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.com/travel/flights" CVScreenId="02015cbe-6519-4d6b-b27a-0821c92b1e84" CvElementArea="1144, 794, 38, 40" CvType="Icon" DesignTimeRectangle="1146, 797, 36, 36" DesignTimeScaleFactor="1.5" ElementType="Icon" FuzzySelectorArgument="&lt;webctrl parentid='ow27' tag='svg' type='' class=' NMm5M' aaname='' /&gt;" Guid="6f4fc079-4bb8-4566-b6fa-7fc446be83f6" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAFiUAABYlAUlSJPAAAAE5SURBVFhH7ZhNS8NAEED7qxQ8SaxJqXiXthpMm0ZNS0T9DxUsUj1JPTT98AOU/sWR7SFih5jJThZCmMO7TNg37xZ2azu7e1BmatuDsiGBXKoVuPxcJ2x/y0L3rARyz/4baDtHMBpPYP7x/WdBESjn6GECttNEe0mBVt2B1/gNiYtmGq9g37LR/szAbv8SyUzh+Rdof2ZgGN0gkSmG0R3aL4F5qH7g/fhpIykS5WQFDqJbkkAX5aT4qxnoByH0git0Js/cWGD77DyZn7Rd7bmxwI7rJfNW53dh3rmxQIUfDMDr499Tnjk7cHhNE+gigVwkkAs/kCjQheqXwDSofglMg+pPDewFYSIwjdatrtE8RiITTGcrsA407sWKU7cLj88vsDDwshC/f21eLQ6dBtpLDiwDEshFArn8AIVkb5/WT1mgAAAAAElFTkSuQmCC" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Find Cheap Flights Worldwide &amp;amp; Book Your Ticket - Google Flights' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="df5fa198ed8b4c775ffc1f0830bd3a9f.png" xmlns="">0sC3Vtw5k5k-tRVr-ORzwWw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

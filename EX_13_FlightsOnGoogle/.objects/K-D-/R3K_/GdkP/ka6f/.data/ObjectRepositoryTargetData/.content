@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="cc0X8rXKmEy-E8_lxI_GpA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.com/travel/flights" DesignTimeRectangle="427, 607, 78, 33" DesignTimeScaleFactor="1.2000000476837158" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='i7' tag='SPAN' type='' class='VfPpkd-uusGie-fmcmS' /&gt;" Guid="27e9f538-7289-47a2-b1f8-870815792e92" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Find Cheap Flights to Anywhere - Google Flights' /&gt;" SearchSteps="FuzzySelector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="395, 623, 19, 10" FuzzySelectorArgument="&lt;webctrl type='' tag='polygon' class='' aaname='' /&gt;" Guid="5d6510a2-f454-4a3e-ae00-50cacdce4aa5" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="fb296fd8dc0b63d8a3b7f47be78584ea.png" xmlns="">0cN3UC9pHwU2EACoeFZ_-9Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

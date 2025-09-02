@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="-QAibJXsdUaQZaNsaGBdfg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.com/travel/flights" CVScreenId="0ff95cb0-a417-4b16-a274-8b01dde52ce0" CvTextArea="444, 677, 73, 18" CvTextArgument="Mumbai" CvType="Text" DesignTimeRectangle="383, 655, 339, 67" DesignTimeScaleFactor="1.2000000476837158" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl tag='INPUT' type='text' class='II2One j0Ppje zmMKJ LbIaRd' aaname='' /&gt;" Guid="90872b64-9dd6-4ab5-bcc1-f36490da8d29" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Find Cheap Flights from Mumbai to Chennai - Google Flights' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="409, 680, 16, 16" ElementType="Icon" FuzzySelectorArgument="&lt;webctrl parentid='ow12' tag='path' type='' class='' aaname='' /&gt;" Guid="5c3fcb5f-35fe-4bb5-a168-94dc063583f4" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="727460a228ce2e4dfeb579ae0def147b.png" xmlns="">0c2h3sJsGCkOIP8KUph14xA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

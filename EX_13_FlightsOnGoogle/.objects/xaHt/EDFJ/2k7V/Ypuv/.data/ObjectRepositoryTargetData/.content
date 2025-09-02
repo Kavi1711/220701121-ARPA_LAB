@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="yrPy1XTQiUyPobSLqkJ-Sg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.com/travel/flights" DesignTimeRectangle="508, 621, 10, 5" DesignTimeScaleFactor="1.2000000476837158" ElementType="Icon" FuzzySelectorArgument="&lt;webctrl type='' class='VfPpkd-t08AT-Bz112c-Bd00G' tag='svg' aaname='' /&gt;" Guid="9519a051-0b46-441e-b073-24893ee42506" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Find Cheap Flights from Mumbai (BOM) - Google Flights' /&gt;" SearchSteps="FuzzySelector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="40d4cb39-ab15-4a38-bf8c-a307f18770e9" CvElementArea="547, 610, 27, 26" CvType="Icon" DesignTimeRectangle="549, 612, 24, 24" ElementType="Icon" FuzzySelectorArgument="&lt;webctrl type='' tag='svg' class='b6yMgc DWE1s NMm5M' aaname='' /&gt;" Guid="982d2e88-3f93-4002-8315-1c1f6aa6074e" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd+UAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAFiUAABYlAUlSJPAAAAF0SURBVEhL7ZPhS8JAFMD9q4pGuTl1Tk0WiEgQ0Yf+ACFBMVN01mIKSSBarlKL9EP1L764sy3a67YrtpDwww+Od+/ej/fuLrKxKcBfEnEHwmYtDJzVFkqyArrRg/HkmdK+MEGUEijPC24hkY3uZ/C4ePvC0JpAVJRRPgtuYb3ZoYLWuQlqJkfpGD0aq9SaKJ8Ft3B0t+xOjH2OUEmll12OJyifBb/QmtLiciLlxOJJlcbInjufBbew1tCdkabULGR2NdAvlyOtnrVQPgtuIXmNtw9P6NGQ7qJSCI+GIMcV+lCsj29BupViSZTnxY+EQcAlzGl5KJUrYHSvaHf2OMnaMPtQOqlCOquhc9/hKcwX9qE/uEH3xqLbH4C2V0B1uISHR8cwW7zSQuS+ThttGiP3aOeQNYnVmzpY0znNnc5foFg8QPV8hfZHL1fqsCXsoH03wnbU+TrXQwvt2zCF9pjccT/8zvkKf4u73uoJw2ItDJz/L3wHGseX2HP363sAAAAASUVORK5CYII=" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="4da578d0ad8389b6eecbf627ea20d36a.png" xmlns="">0XHsRJRb5KkOv6-fhZbrqjw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

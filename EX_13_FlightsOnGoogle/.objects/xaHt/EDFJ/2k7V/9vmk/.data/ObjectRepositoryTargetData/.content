@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="uKcyHSFjIECpXfmfqDTtUg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.com/travel/flights" CVScreenId="6757a1fb-8265-403f-8c77-1cf225415efe" CvTextArea="803, 677, 88, 22" CvTextArgument="Where to?" CvType="Text" DesignTimeRectangle="732, 655, 338, 67" DesignTimeScaleFactor="1.2000000476837158" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl aria-label='Where to? ' tag='INPUT' type='text' class='II2One j0Ppje zmMKJ LbIaRd' placeholder='Where to?' aaname='' /&gt;" Guid="47c4ce33-3d47-41e7-ae18-b77333e8c82a" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Find Cheap Flights from Mumbai (BOM) - Google Flights' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="0c1a53d259e7f2fb0838b2a187f35c3c.png" xmlns="">0Ab1si5GhWUOFQuwsqryQ5Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

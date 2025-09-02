@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="YxGtOSbN_kaPxptfGHwPZA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.com/travel/flights" CVScreenId="3dc9e2c8-c908-4493-a9ac-2bb19c032f56" CvElementArea="1431, 1063, 109, 44" CvTextArea="1464, 1074, 43, 16" CvTextArgument="Done" CvType="Button" DesignTimeRectangle="1466, 1073, 42, 24" DesignTimeScaleFactor="1.2000000476837158" ElementType="Text" FuzzySelectorArgument="&lt;webctrl parentid='ow21' tag='SPAN' type='' class='VfPpkd-vQzf8d' /&gt;" Guid="40d15b0d-9263-4f18-b274-02591fca9967" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Find Cheap Flights Worldwide &amp;amp; Book Your Ticket - Google Flights' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="3dc9e2c8-c908-4493-a9ac-2bb19c032f56" CvElementArea="1431, 1063, 109, 44" CvTextArea="1464, 1074, 43, 16" CvTextArgument="Done" CvType="Button" DesignTimeRectangle="1437, 1066, 100, 38" ElementType="Button" FuzzySelectorArgument="&lt;webctrl aria-label='Done. Search for one-way flights, departing on September 25, 2025' tag='BUTTON' type='' class='VfPpkd-LgbsSe VfPpkd-LgbsSe-OWXEXe-k8QpJ VfPpkd-LgbsSe-OWXEXe-dgl2Hf nCP5yc AjY5Oe DuMIQc LQeN7 z18xM rtW97 Q74FEc dAwNDc' aaname='Done' check:innerText='Done' /&gt;" Guid="1fab2aa7-e10e-49d2-9d15-57068e52e780" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="0029d7b72958bd496423ee0b3aacf650.png" xmlns="">0zwSg-QKPS0630sfAbHgRPg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

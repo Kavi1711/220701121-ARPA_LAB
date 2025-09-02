@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ByX3mgN7yE6zn1ZC1tcwtA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.com/travel/flights" CVScreenId="4c085806-5f17-44bc-ad75-cf342061cd9e" CvTextArea="1019, 684, 12, 16" CvType="AnyWordGroup" DesignTimeRectangle="1021, 682, 9, 24" DesignTimeScaleFactor="1.2000000476837158" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aria-label='Saturday, September 6, 2025' tag='DIV' type='' class='eoY5cb CylAxb sLG56c yCya5' /&gt;" Guid="f0927078-c296-4dc0-9e4d-e4f72194f784" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Find Cheap Flights from Mumbai (BOM) - Google Flights' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="4c085806-5f17-44bc-ad75-cf342061cd9e" CvTextArea="1019, 684, 12, 16" CvTextArgument="6" CvType="Text" DesignTimeRectangle="997, 674, 57, 57" FullSelectorArgument="&lt;webctrl aria-role='gridcell' idx='6' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl aria-role='gridcell' type='' tag='DIV' class='WhDFk Io4vne' aaname='' check:innerText='6' /&gt;" Guid="15c24807-41f9-4055-b640-90b889488d1c" SearchSteps="Selector, FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="2f9f4d5719710ee2cffd05a4f97c2637.png" xmlns="">0vd4jHSlwTUyH6wgkX25x4w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Npjy1LBHX0eZdcu5-hLu6w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.com/travel/flights" CVScreenId="27141e90-fc55-424d-9719-9ad7a4e2cf7d" CvTextArea="444, 677, 73, 18" CvTextArgument="Chennai" CvType="Text" DesignTimeRectangle="383, 655, 339, 67" DesignTimeScaleFactor="1.2000000476837158" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl tag='INPUT' type='text' class='II2One j0Ppje zmMKJ LbIaRd' aaname='' /&gt;" Guid="f13713ec-ad5a-4e9e-b665-82b54d6a73bd" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Find Cheap Flights Worldwide &amp;amp; Book Your Ticket - Google Flights' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="407, 679, 20, 19" ElementType="Icon" FuzzySelectorArgument="&lt;webctrl parentid='i23' tag='svg' type='' class='IILp3 kmKQme LKTCxe NMm5M' aaname='' /&gt;" Guid="90f07828-dfd7-4883-9aa7-4104e15ee572" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="7891dee7b4e77ddd0d8fb00cb63e8d5f.png" xmlns="">0_G-drOF5TEK-Y1TCuYzLVQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

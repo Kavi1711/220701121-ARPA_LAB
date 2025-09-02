@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="fuedAjUjJ0GsR0WhxCQwuQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.com/travel/flights" CVScreenId="7339dbba-b9b5-478d-b11f-105a8d6e7d95" CvTextArea="434, 731, 75, 21" CvTextArgument="One way" CvType="Text" DesignTimeRectangle="383, 712, 157, 58" DesignTimeScaleFactor="1.2000000476837158" ElementType="ListItem" FuzzySelectorArgument="&lt;webctrl tabindex='0' tag='LI' type='' class='MCs1Pd UbEQCe VfPpkd-OkbHre VfPpkd-OkbHre-SfQLQb-M1Soyc-bN97Pc VfPpkd-aJasdd-RWgCYc-wQNmvb ib1Udf VfPpkd-rymPhb-ibnC6b VfPpkd-rymPhb-ibnC6b-OWXEXe-SfQLQb-M1Soyc-Bz112c VfPpkd-rymPhb-ibnC6b-OWXEXe-SfQLQb-Woal0c-RWgCYc VfPpkd-rymPhb-ibnC6b-OWXEXe-gk6SMd' aaname='' check:innerText='One way' /&gt;" Guid="d4036581-4032-4028-b17a-f24a4d47f43c" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Find Cheap Flights from Mumbai (BOM) - Google Flights' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="9bab04eb9336b00777eddc34ed4caea2.png" xmlns="">0Li3sbHVa4UmXVu_nbGwALQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

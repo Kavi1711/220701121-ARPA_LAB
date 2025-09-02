@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Edge Find Cheap Flights Worldwide & Book Your Ticket - Google Flights",
+  "Type": "App",
+  "Id": "K-D-3nUpIE2sCtvbbi2J6Q",
+  "Reference": "G8PLXYAyUEqy8DFk6zZnLw/K-D-3nUpIE2sCtvbbi2J6Q",
+  "Created": "2025-08-30T17:38:08.4892589Z",
+  "Updated": "2025-08-30T17:38:08.4892589Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

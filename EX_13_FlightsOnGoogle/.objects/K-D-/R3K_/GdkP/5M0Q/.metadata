@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Explore",
+  "Type": "Element",
+  "Id": "5M0Q1jRK4E2oX4NwZJaVgw",
+  "Reference": "G8PLXYAyUEqy8DFk6zZnLw/5M0Q1jRK4E2oX4NwZJaVgw",
+  "ParentRef": "G8PLXYAyUEqy8DFk6zZnLw/GdkPGrtVcU2ZT42CDRNKXg",
+  "Created": "2025-08-30T17:42:29.4176359Z",
+  "Updated": "2025-08-30T17:42:29.4176359Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

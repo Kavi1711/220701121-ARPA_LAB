@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="VZsqDoPO8EKdXHYyJ9qWmQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.com/travel/flights" CVScreenId="b0c7216a-ce64-48ba-92ee-01cee3a481b6" CvTextArea="444, 677, 73, 18" CvTextArgument="Mumbai" CvType="Text" DesignTimeRectangle="383, 655, 339, 67" DesignTimeScaleFactor="1.2000000476837158" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl tag='INPUT' type='text' class='II2One j0Ppje zmMKJ LbIaRd' aaname='' /&gt;" Guid="b1ad1790-6318-4864-a94c-d3c6503e9cca" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Find Cheap Flights from Mumbai (BOM) - Google Flights' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="b0c7216a-ce64-48ba-92ee-01cee3a481b6" CvElementArea="404, 676, 25, 24" CvType="Icon" DesignTimeRectangle="399, 671, 32, 31" ElementType="Icon" Guid="d9c18bb0-2d9f-4452-91b7-08feaa6a85d6" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAB0AAAAcCAYAAACdz7SqAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAFiUAABYlAUlSJPAAAAHYSURBVEhL7ZVbSwJBFMf7VKm5qamsFUF23YpMMWtRsqCHoAiMkjbTdm3tolQkBuVD9RVPzMZOM3v2FnQh6OH34vnP+TkXjwODgSH4aQasH/wE/9Jv5W9I4wkRljI5KJa3YCVXADE1jjJe+JIGQwLkCjKcqjo89F8Rqt4GubQFwnAErbXDUxoejoJS15DIDq3VhuhIEvWw4ik9qJ6g5q32LZw0zkHVr1GNnEYgJKA+vqXk7tiGzcsOSEsrEAiGaSY9NQdKvcnlVteLqJdvKbsTcnSRWAJlCENCBI5rKs1e3XRRhsVRSl4l++3T0/Mow+fHuPzE5DTKmDhK2aNt3/VQ3Y66dkHXrMkbqG7iKM3l17mjtdbt2K9U6ZrtnV1UN3GUSgvLtMFN95F7PE6QF22uIcPDWjdxlMbiIndHM3OLKMOSFEeh13+h+alZCWVMHKWEmtaiTRrNK9ffX+VIodnO/YMxxawZE1eptJjhdls7040dsRkyiw+PT7mcXCyjXiyuUkLFMpHIEZJXur2zZ9xh7+mZq5Oa2y59SckQVxr8xHGCDP4vmb0E+i/T/LhjljP9GuTSJoSFKFprhy8pSzyZguVs/v3/NLtqTCJrxotPS7+Cf+m38ivSNwOy4qxpR3XLAAAAAElFTkSuQmCC" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="4a2de1bbfe312f93cb055d2c64fcd682.png" xmlns="">069A4iTJsnEOfxBAclLzkdg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="t1Dw2me1CUeOjLu3wAbaNg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.com/travel/flights" CVScreenId="06f478db-8603-4e6e-afed-895267e5f6d4" CvElementArea="874, 895, 169, 67" CvTextArea="944, 917, 70, 19" CvTextArgument="Search" CvType="Button" DesignTimeRectangle="875, 895, 168, 66" DesignTimeScaleFactor="1.5" FuzzySelectorArgument="&lt;webctrl type='' isleaf='1' tag='DIV' class='VfPpkd-Jh9lGc' aaname='' /&gt;" Guid="718d02cf-76bb-4965-8a20-c76058250581" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Find Cheap Flights Worldwide &amp;amp; Book Your Ticket - Google Flights' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="092a8134532c4d35eb2bd0da98cbc525.png" xmlns="">0ha4txekYVEuUxyvYoCvAPA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ZkeTp46cnEiUdkpMwUkHEg" Reference="G8PLXYAyUEqy8DFk6zZnLw/wcsSktalqUuWTTE-lg7oVQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.com/travel/flights" DesignTimeRectangle="997, 682, 57, 58" DesignTimeScaleFactor="1.2000000476837158" ElementType="Button" FullSelectorArgument="[string.Format(&quot;&lt;webctrl aria-role='button' idx='{0}' parentid='ow20' tag='DIV' /&gt;&quot;, intDate)]" FuzzySelectorArgument="&lt;webctrl aria-role='button' type='' parentid='ow20' tag='DIV' class='p1BRgf KQqAEc' aaname='' check:innerText='6&amp;#xA;₹4,000' /&gt;" Guid="8a64a1c9-4144-45fb-8ef1-9fc2948d0bb7" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Find Cheap Flights from Mumbai (BOM) - Google Flights' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="1">
+          <Target CVScreenId="c88abc91-ff73-4988-a38d-b692c866fbaa" CvTextArea="1005, 704, 37, 13" CvTextArgument="₹4,000" CvType="Text" DesignTimeRectangle="1007, 706, 37, 12" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aria-label=', 4003 Indian rupees' tag='DIV' type='' class='CylAxb n3qw7 UNMzKf julK3b RZ6mCd' aaname='₹4,000' check:innerText='₹4,000' /&gt;" Guid="71b07c42-c99f-4292-9c13-d2a6b0e1e92c" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="65310e11715dc6e42a50bb2e4081e53a.png" xmlns="">0O6ewUJdot0SU5ATEllgh1Q</imageRef>
+    </TargetAnchorable>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData IsString="False" Name="intDate" />
+    </scg:List>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
